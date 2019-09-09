@@ -1,0 +1,31 @@
+Name,State,Lat,Lon
+Badrinath Temple,Uttarakhand,30.745101,79.490992
+Konark Sun Temple,Odisha,19.887928,86.094558
+Brihadeeswara Temple,Tamil Nadu,10.782925,79.131863
+Somnath Temple,Gujarat,20.888368,70.401200
+Kedarnath Temple,Uttarakhand,30.735554,79.066906
+Sanchi Stupa,Madhya Pradesh,23.480204,77.739623
+Ramanathaswamy (Rameshwaram) Temple,Tamil Nadu,9.288543,79.318124
+Vaishno Devi Mandir,Jammu & Kashmir,33.030890,74.949052
+Siddhivinayak Temple,Maharashtra,19.017140,72.830260
+Gangotri Temple,Uttarakhand,30.994928,78.941392
+Golden Temple,Punjab,31.620373,74.876388
+Kashi Vishwanath Temple,Uttar Pradesh,25.311154,83.010668
+Lord Jagannath Temple,Orisha,12.850520,80.245746
+Yamunotri Temple,Uttarakhand,30.977517,78.437453
+Meenakshi Temple,Tamil Nadu,9.919822,78.119342
+Amarnath Cave Temple,Jammu & kashmir,34.215772,75.504099
+Lingaraja Temple,Orissa,20.238463,85.833671
+Tirupati Balaji,Andhra Pradesh,13.683356,79.347406
+Kailasanathar Temple,Tamil Nadu,12.842453,79.689713
+Khajuraho Temple,Madhya Pradesh,24.839116,79.931821
+Virupaksha Temple,Karnataka,15.335437,76.458983
+Akshardham Temple,Delhi,28.612727,77.277262
+Shri Digambar Jain Lal Mandir,Delhi,28.655785,77.236084
+Gomateshwara Temple,Karnataka,12.854263,76.484667
+Ranakpur Temple,Rajasthan,25.115736,73.472841
+Shirdi Sai Baba Temple,Maharashtra,19.832324,74.480030
+Sree Padmanabhaswamy Temple,Kerala,8.482863,76.943580
+Dwarkadhish Temple,Gujarat,22.237723,68.967395
+Laxminarayan Temple,Delhi,28.632742,77.198986
+Iskcon Temple,Uttar Pradesh,28.556414,77.253997

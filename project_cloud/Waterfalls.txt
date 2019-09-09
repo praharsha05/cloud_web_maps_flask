@@ -1,0 +1,21 @@
+Name,State,Lat,Lon,Rating
+Jog Falls,Karnataka,14.205539,74.792180,8.2
+Dudhsagar Falls,Goa,15.314717,74.314307,8.3
+Nohsngithiang Falls,Meghalaya,25.275753,91.685996,8.9
+Soochipara Falls,Kerala,11.531326,76.155187,9.1
+Bhagsunag Waterfall,Himachal Pradesh,32.248979,76.339932,8.4
+Hebbe Falls,Karnataka,13.541984,75.725744,7.5
+Bhimlat Falls,Rajasthan,25.302946,75.411680,9.1
+Kempty Falls,Uttarakhand,30.487551,78.036325,9.0
+Athirappilly Waterfall,Kerala,10.285442,76.569745,9.6
+Sissu Falls,Himachal Pradesh,32.466261,77.122294,8.8
+Thosegarh Falls,Maharashtra,17.596054,73.846132,8.6
+Dhuadhar Falls,Madhya Pradesh,23.125748,79.813410,8.5
+Kynrem Falls,Meghalaya,25.227547,91.716657,9.6
+Shivanasamudra Falls,Karnataka,12.302077,77.176773,9.3
+Courtallam Falls,Tamil Nadu,8.931947,77.269083,9.5
+Kune Falls,Pune,18.762755,73.381389,8.9
+Chitrakote Falls,Chattisgarh,19.207559,81.700084,9.8
+Hogenakkal Waterfall,Tamil Nadu,12.116301,77.777429,9.2
+Panjpula Falls,Himachal Pradesh,32.527965,75.989813,7.0
+Rudra Nag Waterfall,Himachal Pradesh,31.296398,77.382427,7.5
