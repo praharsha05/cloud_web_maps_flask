@@ -1,3 +1,2 @@
 runtime: python37
-url: /.*
-  script: auto
+script: main
