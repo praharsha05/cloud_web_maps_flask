@@ -4,8 +4,6 @@ import pandas as pd
 
 app = Flask(__name__)
 
-Pokemons =["Pikachu", "Charizard", "Squirtle", "Jigglypuff",
-           "Bulbasaur", "Gengar", "Charmander", "Mew", "Lugia", "Gyarados"]
 
 def color_producer(rating):
     r=rating
